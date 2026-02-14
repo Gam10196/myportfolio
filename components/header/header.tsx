@@ -1,10 +1,11 @@
 import Link from "next/link"
+
 export default function Header() {
   return (
-    <header className="border flex items-center justify-between px-50 py-4 bg-white">
+    <header className="sticky top-0 z-50 backdrop-blur-md bg-white/60 flex items-center justify-between px-50 py-2">
       <div>
-        <h1 className="text-xl font-semibold">Gamaliel C. Octobre</h1>
-        <p className="text-sm text-gray-500">Aspiring Web Developer</p>
+        <h1 className="text-xl font-semibold">My Portfolio</h1>
+        <p className="text-sm text-gray-500">Gamaliel C Octobre</p>
       </div>
 
       <nav className="flex gap-6 text-gray-700">

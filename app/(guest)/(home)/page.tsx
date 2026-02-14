@@ -15,12 +15,12 @@ export default function Homepage() {
             Hi, I&apos;m Gam
           </h1>
 
-          <p className="max-w-xl text-gray-600 mb-6">
+          <p className="max-w-xl text-gray-600 mb-6 text-justify">
             I’m a beginner web developer who is learning how to create websites and improve my skills 
             through practice and small projects.
           </p>
 
-          <div className="flex gap-4 mb-4">
+          <div className="flex gap-2 mb-4">
             <Link href="/projects">
               <Button className="bg-black hover:bg-gray-900 text-white px-5 flex gap-2 items-center">
                 <Folder className="w-5 h-5" />
@@ -59,8 +59,8 @@ export default function Homepage() {
           <Image
             src="/gams.jpg"
             alt="Gams"
-            width={300}
-            height={300}
+            width={400}
+            height={400}
             className="rounded-full"
           />
         </div>
@@ -80,6 +80,9 @@ export default function Homepage() {
             Here are some of my recent projects where I practice, learn, and improve my web development skills.
           </p>
         </div>
+      </div>
+      <div className="border mt-10 p-20">
+        
       </div>
 
     </div>
