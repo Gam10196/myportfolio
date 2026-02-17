@@ -84,7 +84,6 @@ export default function Homepage() {
       <div className="border mt-10 p-20">
         
       </div>
-
     </div>
   )
 }

@@ -1,5 +1,6 @@
 import Link from "next/link"
 
+
 export default function Header() {
   return (
     <header className="sticky top-0 z-50 backdrop-blur-md bg-white/60 flex items-center justify-between px-50 py-2">
