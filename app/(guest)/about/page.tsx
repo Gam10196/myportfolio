@@ -12,7 +12,7 @@ export default function AboutPage() {
 
       <div className="relative flex items-start gap-6 -mt-24 z-10">
         {/* Profile Image */}
-        <div className="p-2 shadow-xl rounded-full bg-white mt-4">
+        <div className="m-4 p-2 shadow-xl rounded-full bg-white mt-4">
           <Image
             src="/gampp.jpg"
             alt="Gams"
@@ -23,7 +23,7 @@ export default function AboutPage() {
         </div>
 
         {/* Name & Title */}
-        <div className="mt-25">
+        <div className="mt-25 -ml-2">
           <h1 className="text-2xl md:text-3xl font-bold">Gamaliel C. Octobre</h1>
           <p className="text-gray-600">An aspiring Web Developer</p>
         </div>

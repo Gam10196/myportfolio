@@ -44,7 +44,7 @@ export default function ContactSection() {
               <a href="https://github.com/Gam10196" target="_blank" className="p-2 bg-gray-800 rounded hover:bg-gray-700 transition">
                 <Github size={20} />
               </a>
-              <a href="https://twitter.com" target="_blank" className="p-2 bg-gray-800 rounded hover:bg-gray-700 transition">
+              <a href="https://x.com/Crator124" target="_blank" className="p-2 bg-gray-800 rounded hover:bg-gray-700 transition">
                 <Twitter size={20} />
               </a>
               <a href="https://www.facebook.com/gamaliel10196/" target="_blank" className="p-2 bg-gray-800 rounded hover:bg-gray-700 transition">
