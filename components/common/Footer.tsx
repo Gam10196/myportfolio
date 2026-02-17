@@ -17,7 +17,7 @@ const footerLinks = {
 
 export default function Footer() {
   return (
-    <footer className="bg-gray-100 text-gray-700 px-50 py-3 mt-10">
+    <footer className="bg-gray-100 text-gray-700 px-50px py-3 mt-5">
       <div className="container mx-auto md:px-12 grid grid-cols-1 md:grid-cols-4 gap-25">
 
         {/* About */}
