@@ -27,7 +27,7 @@ const projects = [
       "A very simple project about a laundry shop website.",
     image: "/tinybubbles.png",
     tech: ["HTML", "Css", "JavaScript"],
-    url: "",
+    url: "https://tinybubbles.vercel.app/",
   },
 ];
 
