@@ -111,7 +111,7 @@ export default function Homepage() {
       </div>
 
       {/* Projects Grid */}
-      <div className="border mt-10 p-10">
+      <div className="mt-10 p-10">
         <div className="max-w-6xl mx-auto grid md:grid-cols-3 gap-6">
 
           {projects.map((project, index) => (
