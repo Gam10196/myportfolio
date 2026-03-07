@@ -14,18 +14,18 @@ const projects = [
     url: "https://htmljsproject.vercel.app",
   },
   {
-    title: "None",
+    title: "Products",
     description:
-      "none.",
-    image: "/gams.jpg",
-    tech: ["HTML", "Css", "JavaScript"],
-    url: "none",
+      "A simple Project and it's about Products.",
+    image: "/products.png",
+    tech: ["HTML", "Css", "JavaScript", "Reactjs"],
+    url: "https://myproducts-nine.vercel.app/",
   },
   {
-    title: "None",
+    title: "TinyBubbles",
     description:
-      "none.",
-    image: "/gampp.jpg",
+      "A very simple project about a laundry shop website.",
+    image: "/tinybubbles.png",
     tech: ["HTML", "Css", "JavaScript"],
     url: "",
   },
